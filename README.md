@@ -8,7 +8,7 @@ By Team Fourier
 3.  ``data/`` - Folder containing .csv files for the Jupyter Notebooks
 4. ``ARIMA notes.pdf`` - LateX notes providing documentation and theoretical grounding of ARIMA and time series analysis
 5. ``ARIMA slides.pdf`` - Slidedeck providing background for ARIMA coding assignment
-6. ``ARIMA quiz.docx`` - Document containing quiz questions about ARIMA
+6. ``ARIMA quiz.docx`` - Document containing quiz questions about ARIMA and solutions
 
 ## Learning Objectives
 Our goal with this coding assignment and accompanying material is to teach time series analysis, both modeling and forecasting, under the umbrella of system identification. In the standard system identification problem, such as controlling a robot, we have the state transition equation:
