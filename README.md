@@ -6,9 +6,9 @@ By Team Fourier
 1. ``ARIMA_notebook.ipynb`` - Jupyter Notebook containing ARIMA coding assignment
 2. ``ARIMA_notebook_sols.ipynb`` - Jupyter Notebook containing ARIMA coding assignment solutions     as well as a description of learning objectives
 3.  ``data/`` - Folder containing .csv files for the Jupyter Notebooks
-4. ``ARIMA notes.pdf`` - LateX notes providing documentation and theoretical grounding of ARIMA and time series analysis
-5. ``ARIMA slides.pdf`` - Slidedeck providing background for ARIMA coding assignment
-6. ``ARIMA quiz.docx`` - Document containing quiz questions about ARIMA
+4. ``ARIMA_Notes.pdf`` - LateX notes providing documentation and theoretical grounding of ARIMA and time series analysis
+5. ``ARIMA_Slides.pdf`` - Slidedeck providing background for ARIMA coding assignment
+6. ``ARIMA Quiz.docx`` - Document containing quiz questions about ARIMA
 
 ## Learning Objectives
 Our goal with this coding assignment and accompanying material is to teach time series analysis, both modeling and forecasting, under the umbrella of system identification. In the standard system identification problem, such as controlling a robot, we have the state transition equation:
