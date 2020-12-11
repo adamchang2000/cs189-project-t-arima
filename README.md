@@ -10,6 +10,7 @@ By Team Fourier
 	- Increased length with a new section on how to use least squares to fit ARIMA model parameters
 - Updated Learning Material: `ARIMA_Notes.pdf` and `ARIMA_Slides.pdf`
 	- Provided intuition for mathematical derivations 
+	- Added reasons for learning concepts
 	- Grounded mathematical concepts to ARIMA as a whole
 	- Extended explanation of seasonal ARIMA models
 - Updated Quiz: `ARIMA_Quiz.pdf`
