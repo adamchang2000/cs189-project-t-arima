@@ -1,6 +1,19 @@
 
+
 # CS189 Project T Final: ARIMA
 By Team Fourier
+
+## Code Review Changes (12/10/20)
+- Updated Coding Assignment: `ARIMA_notebook.ipynb`
+	- More precise indication of where students should write their code:
+		- Starting code segments with `#YOUR CODE HERE` and ending with `#END YOUR CODE`
+	- Increased length with a new section on how to use least squares to fit ARIMA model parameters
+- Updated Learning Material: `ARIMA_Notes.pdf` and `ARIMA_Slides.pdf`
+	- Provided intuition for mathematical derivations 
+	- Grounded mathematical concepts to ARIMA as a whole
+	- Extended explanation of seasonal ARIMA models
+- Updated Quiz: `ARIMA_Quiz.pdf`
+	- Added more mathematical-type questions, instead of just conceptual
 
 ## Contained in this repository are several files and directories:
 1. ``ARIMA_notebook.ipynb`` - Jupyter Notebook containing ARIMA coding assignment
@@ -8,7 +21,7 @@ By Team Fourier
 3.  ``data/`` - Folder containing .csv files for the Jupyter Notebooks
 4. ``ARIMA_Notes.pdf`` - LateX notes providing documentation and theoretical grounding of ARIMA and time series analysis
 5. ``ARIMA_Slides.pdf`` - Slidedeck providing background for ARIMA coding assignment
-6. ``ARIMA Quiz.docx`` - Document containing quiz questions about ARIMA
+6. ``ARIMA_Quiz.pdf`` - Document containing quiz questions about ARIMA
 
 ## Learning Objectives
 Our goal with this coding assignment and accompanying material is to teach time series analysis, both modeling and forecasting, under the umbrella of system identification. In the standard system identification problem, such as controlling a robot, we have the state transition equation based on the previous state and a user input.
