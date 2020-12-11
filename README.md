@@ -13,7 +13,7 @@ By Team Fourier
 	- Grounded mathematical concepts to ARIMA as a whole
 	- Extended explanation of seasonal ARIMA models
 - Updated Quiz: `ARIMA_Quiz.pdf`
-	- Added more mathematical-type questions, instead of just conceptual
+	- Added more mathematical-type (computational) questions, instead of just conceptual
 
 ## Contained in this repository are several files and directories:
 1. ``ARIMA_notebook.ipynb`` - Jupyter Notebook containing ARIMA coding assignment
